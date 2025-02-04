@@ -1,6 +1,6 @@
 I will share the dashboard and hope you like it, the dashboard will be interactive by SQL and powerby.
 
-Analysis of product sales .
+Analysis of Project-tracking.
 
 What is included in the analysis:
 1. Building a database
